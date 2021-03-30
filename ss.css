@@ -1,0 +1,816 @@
+#rr{
+  width :80%;
+  margin: auto;
+  height:auto;
+  border-radius:10px;
+  padding-top: 10px;
+  padding-bottom:1px;
+  background-image:url("anoma img/194.jpg");
+  background-size:cover;
+}
+.ano{
+  width :95%;
+  margin: auto;
+  height:auto;
+  border-radius:10px;
+  padding-top: 10px;
+  padding-bottom:1px;
+  background:white;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+.ano1{
+  width :95%;
+  margin: auto;
+  height:200px;
+  padding-top: 10px;
+}
+.ty1{
+    width :60%;
+	height:150px;
+	float:left;
+	
+	
+}
+.ty1 img{
+	width:90%;
+	height:200px;
+    border-radius:10px;
+	margin-left:0px;
+}
+.ty2{
+    width :30%;
+	height:100px;
+	float:left;
+	margin-top:-20px;
+}
+.ty2 img{
+	width:80%;
+	height:200px;
+    border-radius:10px;
+	margin-left:0px;
+}
+
+.mm{
+  margin-top: 95px;
+  color:purple;
+  text-align: right;
+  margin-right: 57px;
+  margin-top: -40px;
+  font-family: "Monotype Corsiva";
+  font-size: 22px;
+}
+
+#ser {
+	
+   width:20%;
+   height:22px;
+   border-radius:20px;
+   background:pink;
+   margin-left:12px;
+}
+
+.d7{
+     background:url("anoma img/194.jpg");
+     margin-left: 40px;
+     width: 92%;
+     height: 45px;
+     border-radius: 5px;
+}
+.d7 a{
+	 text-decoration:none;
+     list-style:none;
+	 padding-left: 98px;
+	 color:white;
+     font-size:20px;
+	 font-family:"Footlight MT Light";
+	 padding-left: 100px;
+}
+.d7 a:hover
+{
+   color:purple;	
+	
+}
+.d7 a:active
+{
+   color:pink;
+}
+
+.d7 ul li {
+     display:inline;	
+	
+}
+
+.d7 ul {
+    width: 100%;
+	padding: 14px;
+	padding-top: 7px;
+} 
+ 
+.content{
+    width: 100%;
+    padding: 10px;
+    margin-left: 46px;
+	height:320px;
+}
+
+#mmm{
+	width:40%;
+    float: left;
+    height: 280px;
+    font-family: "Monotype Corsiva";
+    margin-right: 22px;
+	text-align:center;
+    border-radius: 12px;
+	background-image: url("anoma img/155.jpg");
+	margin-top:20px;
+}
+
+#mmm h1{
+
+   text-align:center;
+   font-family:"Edwardian Script ITC";
+   font-size:40px;
+   text-transform:capitalize;
+   color:purple;
+
+   
+}
+#mmm p{
+   text-align:center;
+   font-family:"Footlight MT Light";
+   font-size:20px;
+   text-transform:capitalize;
+   color:purple;
+   margin-top:-10px;
+}
+
+#mmm1{
+	width:45%;
+	height: 250px;
+    border-radius: 12px;
+	margin-top:30px;
+	
+}
+.tt{
+    width: 100%;
+    padding: 10px;
+    margin-left: 46px;
+	height:220px;
+	
+}
+.tt img{
+	 width: 20%;
+	 height:200px;
+	 margin-left:20px;
+}
+
+#content2{
+	width:95%;
+	height:250px;
+	margin-bottom:20px;
+}
+.aa{
+	width:25%;
+	height:200px;
+    background:url("anoma img/155.jpg");
+	background-size:cover;
+	border-radius: 12px;
+	float:left;
+	margin-left: 100px;
+	margin-top: 25px;
+    border:2px solid white;
+	
+}
+.aa p{
+	color:purple;
+	font-size:17px;
+	font-family:"Footlight MT Light";
+	text-align:center;
+	margin-left:10px;
+	margin-top:40px;
+}
+.aa1{
+	width:10%;
+	height:100px;
+    float:left;
+	margin-left:15px;
+}
+
+
+.aa1  img{
+	width:100%;
+	height:100px;
+	margin-top:80px;
+    border:2px solid pink;
+    margin-left:20px;
+	border-radius:80px;
+	
+}
+.aa1 a  img:hover{
+	border:2px solid orange;
+}
+.aa1 a img:active{
+	border:2px solid purple;
+}
+
+.nn{
+	height:60px;
+    background:url("anoma img/194.jpg");
+	border-radius: 12px;
+	width: 97%;
+    margin-left: 15px;
+	margin-bottom:50px;
+	margin-right:20px;
+}
+#ff{
+	width:50%;
+	height:60px;
+	float:left;
+	margin-left:20px;
+}
+#ff img{
+	width: 50px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+	border-radius:30px;
+   
+}
+#ff1{
+	width:30%;
+	height:60px;
+	float:left;
+	margin-left:150px;
+}
+#ff1 h1{
+	font-family:"Monotype Corsiva";
+	font-size:16px;
+	color:white;
+	margin-top:20px;
+	
+}
+.nn1{
+	height:60px;
+    background:url("anoma img/194.jpg");
+	border-radius: 12px;
+	width: 97%;
+	margin-bottom:50px;
+	margin-top:1370px;
+	margin-left: 15px;
+	margin-right:20px;
+}
+
+.nn2{
+    height: 60px;
+    border-radius: 12px;
+    width: 97%;
+    margin-left: 15px;
+    margin-top:1100px;
+	margin-bottom:100px;
+	background-image:url("anoma img/194.jpg");
+}
+
+.nn3{
+    height: 60px;
+    border-radius: 12px;
+    width: 97%;
+    margin-left: 15px;
+    margin-top: 70px;
+	margin-bottom:50px;
+	background-image:url("anoma img/194.jpg");
+}
+.nn4{
+    height: 60px;
+    border-radius: 12px;
+    width: 97%;
+    margin-left: 15px;
+    margin-top: 1050px;
+	margin-bottom:60px;
+	background-image:url("anoma img/194.jpg");
+}
+.nn5{
+    height: 60px;
+    border-radius: 12px;
+    width: 97%;
+    margin-left: 15px;
+    margin-top: 300px;
+	margin-bottom:20px;
+	background-image:url("anoma img/194.jpg");
+}
+.nn6{ 
+    height: 60px;
+    border-radius: 12px;
+    width: 97%;
+    margin-left: 15px;
+    margin-top:300px;
+	margin-bottom:20px;
+	background-image:url("anoma img/194.jpg");
+	
+}
+.nn7{
+    height: 60px;
+    border-radius: 12px;
+    width: 97%;
+    margin-left: 15px;
+    margin-top:50px;
+	margin-bottom:20px;
+	background-image:url("anoma img/194.jpg");
+}
+
+.ddd{
+	width: 97%;
+    height:250px;
+	border:radius;
+	float:left;
+	margin-bottom:60px;
+	margin-top:20px;
+}
+.ddd1{
+	width: 22%;
+    height:240px;
+	margin-left:20px;
+	float:left;
+}
+.ddd2{
+	width: 100%;
+    height:200px;
+	margin-left:20px;
+}
+.ddd2 img{
+	width:180px;
+    height:180px;
+    margin-left:-0px;
+    margin-top:20px;
+    border-radius:100px;
+    border:2px solid pink;	
+}
+.ddd2 a img:hover{
+	border:2px solid purple;
+}
+.ddd3{
+	background-image:url("anoma img/151.jpg");
+	width: 60%;
+    height:60px;
+    font-family:"Monotype Corsiva";
+	color:purple;
+	border-radius:12px;
+	margin-left:50px;
+}
+.ddd3 h3{
+	padding-top:17px;
+	padding-left:7px;
+}
+.content4{
+    width: 95%;
+	height:300px;
+    padding: 10px;
+    margin-left:12px;
+	float:left;
+	margin-top: 23px;
+    margin-bottom: 35px;
+}
+.bb{
+	width: 58%;
+	height:280px;
+    background-image:url("anoma img/155.jpg");
+	float:left;
+	margin-left: 33px;
+	border-radius: 15px;
+}
+.bb  p{
+   text-align:center;
+   text-decoration:nont;
+   font-family:"Footlight MT Light";
+   font-size:20px;
+   text-shadow:20px;
+   text-transform:capitalize;
+   color:purple;
+   margin-top:45px;
+}
+.bb1{
+	width: 35%;
+	height:280px;
+	float:left;
+	margin-left: 30px;
+}
+.bb1 img{
+	width: 100%;
+	height:280px;
+	border-radius:15px;
+	
+}
+
+.content5{
+    width: 95%;
+	height:300px;
+    padding: 10px;
+    margin-left: 12px;
+	float:left;
+}
+.bb2{
+	width: 40%;
+	height:300px;
+	float:left;
+    margin-left: 20px;
+	border-radius:20px;
+    margin-top:15px;
+	
+}
+
+.bb3{
+	width:45%;
+    height: 250px;
+    background-image:url("anoma img/155.jpg");
+    float: left;
+    margin-left: 100px;
+	border-radius:15px;
+}
+.bb3 table{
+	margin-left:25px;
+}
+
+.content6{
+    width: 95%;
+	height:300px;
+    padding: 10px;
+	float:left;
+	margin-top:30px;
+}
+.bb4{
+	width: 45%;
+	height:250px;
+	float:left;
+    margin-left:80px;
+    background-image:url("anoma img/155.jpg");
+    border-radius:15px;
+}
+.bb4 h1{
+	font-family:"Monotype Corsiva";
+	font-size:30px;
+	text-align:center;
+	color:purple;
+}
+.cc{
+	text-align:center;
+	margin-left:50px;
+	margin-bottom:10px;
+	
+}
+.bb5{
+	width: 35%;
+	height:250px;
+	float:left;
+    margin-left: 90px;
+}
+.bb5 img{
+	width: 100%;
+	height:250px;
+	border-radius:15px;
+	
+}
+.ee{
+	width:95%;
+    height: 700px;
+	margin-top:30px;
+}
+.ee1{
+	width:20%;
+    height: 700px;
+	float:left;
+}
+.ee1 img{
+	width:150px;
+    height: 150px;
+    margin-left:50px;
+	margin-bottom:10px;
+	margin-top:10px;
+	border-radius:15px;
+	border:2px solid white;
+}
+.ee2{
+	width:50%;
+    height: 720px;
+    background-image: url("anoma img/150.jpg");
+	float:left;
+    margin-left:70px;
+	border-radius:15px;
+}
+
+.uu1{
+	font-family:"Monotype Corsiva";
+	font-size:24px;
+	width:400px;
+	height:60px;
+	color:purple;
+}
+.uu3{
+   border-radius:12px;
+   width:200px;
+   height:25px;
+}
+.uu6{
+	margin-left:70px;
+	margin-bottom:30px;
+}
+.u{
+	font-family:"Monotype Corsiva";
+	font-size:24px;
+	width:400px;
+	height:40px;
+	color:purple;
+}
+.uu7{
+	margin-right:50px;
+	border-radius:15px;
+	width:200px;
+	height:20px;
+}
+.cc{
+	margin-left:65px;
+	width:300px;
+}
+#vv{
+	font-family:"Monotype Corsiva";
+	font-size:30px;
+    background:white;
+	color:purple;
+	border-radius:12px;
+	width:100px;
+	margin-top:5px;
+	margin-left:76px;
+}
+.hh{
+	width:90%;
+	height:300px;
+	margin:auto;
+}
+.hh1{
+	width:35%;
+	height:250px;
+	float:left;
+}
+.hh2 img{
+	width:60%;
+	height:160px;
+	margin-top:40px;
+	border:2px solid pink;
+	margin-left:95px;
+	border-radius:200px;
+}
+.hh3{
+	width:100%;
+	height:50px;
+	border-radius:12px;
+	margin-top:30px;
+	margin-left:90px;
+}
+.ww{
+	width:20%;
+	height:50px;
+	float:left;
+	background-size:cover;
+    background-image: url("anoma img/199.jpg");
+	border-radius:12px;
+    padding-left:10px;
+	margin-right:15px;
+}
+.ww h2{
+	font-family:"Monotype Corsiva";
+	color:purple;
+	float:left;
+	margin-top:10px;
+}
+.ww1{
+	width:40%;
+	height:50px;
+	float:left;
+	background-size:cover;
+    background-image: url("anoma img/199.jpg");
+	border-radius:12px;
+	padding-left:15px;
+	font-family:"Monotype Corsiva";
+	color:purple;
+	font-size:25px;
+}
+
+.ww3{
+	width:90%;
+	height:250px;
+
+}
+.ww3 img{
+    width:200px;
+	height:200px;
+	padding-left:70px;	
+}
+.hh4{
+	width:50%;
+	height:350px;
+	margin-top:30px;
+	margin-left:380px;
+    background-image: url("anoma img/199.jpg");
+	border-radius:12px;
+	background-size:cover;
+}
+.hh4 p{
+	font-family:"Monotype Corsiva";
+	color:purple;
+	padding-top:110px;
+	font-size:25px;
+	text-align:center;
+}
+.pppp{
+	width:90%;
+	height:720px;
+	margin:auto;
+	
+}
+.pppp1{
+	width:40%;
+	height:400px;
+	
+}
+.pppp2{
+	width:95%;
+	height:200px;
+	margin-left:60px;
+	padding-top:50px;
+	padding-bottom:40px;
+}
+.pppp2 img{
+	width:20%;
+	height:200px;
+}
+
+.p12{
+	width:100%;
+	height:80px;
+	border-radius:10px;
+	margin-left:20px;
+	font-family:"Monotype Corsiva";
+	font-size:30px;
+	color:purple;
+	background-size:cover;
+	
+}
+.pppp3{
+	width:32%;
+	height:50px;
+    background-image: url("anoma img/151.jpg");
+	border-radius:12px;
+	font-family:"Monotype Corsiva";
+	font-size:30px;
+	margin-top:15px;
+	background-size:cover;
+	float:left;
+}
+.pppp4{
+	width:38%;
+	height:50px;
+    background-image: url("anoma img/151.jpg");
+	margin-top:-50px;
+	margin-left:0px;
+	border-radius:12px;
+	font-family:"Monotype Corsiva";
+	font-size:30px;
+	background-size:cover;
+	float:left;
+}
+.pppp3 h3{
+	margin-top:0px;
+	margin-left:13px;
+}
+.pppp4 h3{
+	margin-top:0px;
+	margin-left:13px;
+}
+.pppp3 a{
+	 text-decoration:none;
+	 color:purple;
+}
+
+.ppp{
+	width:50%;
+	height:auto;
+	margin-left:400px;
+	background-image:url("anoma img/151.jpg");
+	background-size:cover;
+	border-radius:12px;
+	margin-top:-250px;
+	padding-top:26px;
+	padding-bottom:19px;
+	margin-bottom:30px;
+	
+}
+.ppp1{
+	width:95%;
+	height:auto;
+	margin:auto;
+    background:white;	
+	border-radius:12px;
+	padding-top:1px;
+	margin-top:-8px;
+}
+.pp{
+	width:95%;
+	height:120px;
+	background:white;
+	background-image: url("anoma img/151.jpg");
+    margin:auto;
+	margin-top:30px;
+	border-radius:12px;
+	
+}
+.pp1{
+	width:25%;
+	height:100px;
+	float:left;
+}
+.pp img{
+	width:70%;
+	height:100px;
+	float:left;
+	margin-top:10px;
+	margin-left:10px;
+	border-radius:10px;
+}
+.pp2{
+	width:40%;
+	height:100px;
+	font-family:"Monotype Corsiva";
+	font-size:20px;
+	color:purple;
+	float:left;
+	margin-top:30px;
+	margin-left:10px;
+}
+.pp3{
+	width:15%;
+	height:100px;
+	margin-left:350px;
+	padding-top:60px;
+
+}
+.pp3 a{
+	background:purple;
+	padding-top:0px;
+	
+}
+.ii{
+	width:70%;
+	height:200px;
+	color:purple;
+    font-size:40px;
+	margin:auto;
+	font-family:"Monotype Corsiva";
+	background-image: url("anoma img/151.jpg");
+	background-size:cover;
+	margin-top:40px;
+	text-align:center;
+	padding-top:50px;
+	border-radius:12px;
+}
+.ii1{
+	width:70%;
+	height:400px;
+	color:purple;
+    font-size:30px;
+	margin:auto;
+	font-family:"Monotype Corsiva";
+	background-image: url("anoma img/log.gif");
+	background-size:cover;
+	margin-top:40px;
+	text-align:center;
+	padding-top:50px;
+	border-radius:12px;
+	border:5px solid purple;
+}
+.ppps{
+	width:50%;
+	height:auto;
+	position:relative;
+}
+
+.wm1{	
+    width:80px;
+	height:40px;
+	float:left;
+    background-image: url("anoma img/151.jpg");
+	border-radius:12px;
+	padding-left:15px;
+	font-family:"Monotype Corsiva";
+	color:purple;
+	font-size:25px;	
+	margin-top:35px;
+}
+
+.ii1 table{
+	text-align:center;
+	margin-top:50px;
+	margin-left:150px;
+}
+.msm{
+	
+	height:100px;
+}
